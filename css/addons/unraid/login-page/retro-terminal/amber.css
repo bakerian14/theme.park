@@ -7,7 +7,7 @@
 @import url(/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css);
 :root {
 --main-bg-color:black;
---body-before:#ffb52a1a;
+--body-before:#ffb51a1a;
 --body-after: #ffb52a33;
 --body-animation: flicker;
 --logo: url(/css/addons/unraid/login-page/alien/logo/wings_yellow.png) center no-repeat;
