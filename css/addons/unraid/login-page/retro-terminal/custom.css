@@ -7,8 +7,8 @@
 @import url(/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css);
 :root {
 --main-bg-color:black;
---body-before:#70d7f61a;
---body-after: #70d7f633;
+--body-before:#9d5ccc1a;
+--body-after: #9d5ccc33;
 --body-animation: flicker;
 --logo: url(https://i.imgur.com/sO0AbwH.png) center no-repeat;
 --text-color: #9d5ccc;
